@@ -1,1 +1,1 @@
-# Sql--Data
+# Data exploration with Sql
